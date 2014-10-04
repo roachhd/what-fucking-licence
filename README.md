@@ -1,19 +1,19 @@
 what-fucking-licence
 ====================
 
-DO WHAT THE FUCK YOU WANT TO!
-=============================
+DO THE FUCK WHAT YOU WANT!
+==========================
 
        PUBLIC LICENSE
-       Version 2, December 2004
+       Version 3, October 2014
 
-       Copyright (C) 2004 Sam Hocevar  
+       Copyright (C) 2014 [Roach Haus](http://roachhaus.com)
 
-Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
+**Everyone** is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed. 
+Just do the fuck what you want with it.
 
-    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+    SEE BELOW FOR ALL THE 'DO THE FUCK WHAT YOU WANT' PUBLIC LICENSE
+    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION:
 
-    1. You just DO WHAT THE FUCK YOU WANT TO.
+    1. You can do the fuck what you want.
